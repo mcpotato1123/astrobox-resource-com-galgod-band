@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "com.galgod.band",
+    "restype": "quick_app",
+    "name": "Galgod",
+    "description": "小米手环非官方移植的Galgod（想成为Galgame领域大神！！！），现免费提供给大家游玩，欢迎大家的游玩，有bug请及时指出\n故事梗概：在一个由「天选试」决定一切的世界里——国家每三年举办一次天选试，一次录取一千人， 考核内容全部是美少女游戏（Galgame）。通过者握有制定规则、影响国运的权力。故事从再平凡不过的上学路开始，很快就撞上「天选试」这道门槛—— 高考与天选试、现实与游戏、孤独与理解，全都压在这一个选择上。随着校园日常（间章、茶餐厅、街道、雨夜）的推进，他渐渐意识到： 自己正身处一部「现实的 Galgame」之中，而小涟就像是那个「真女主」。可身为废萌党，他偏偏认定——废萌不该有钦定的真女主。 所有女主，都应该是平等的。于是「选择」这两个字，变得越来越沉重。\n源代码可任由大家fork（可以的话求pr和star），感谢大家支持",
+    "preview": [
+      "media/20261003160713_2.png",
+      "media/20261003160629_1.png",
+      "media/20261003160811_3.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover-1200x800.jpg",
+    "author": [
+      {
+        "name": "MC",
+        "bindABAccount": true
+      },
+      {
+        "name": "mcpotato1123",
+        "bindABAccount": false
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "GitHub源码",
+      "url": "https://github.com/mcpotato1123/galgod-band",
+      "icon": "github-logo"
+    },
+    {
+      "title": "QQ交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=GIA8Op10KxVj0XcOAsNTIg0PbrTMEbiypWzlPZ21oQblPzY5Ov9PepDRFSEEGaot&busi_data=eyJncm91cENvZGUiOiI2NjE1MzU1OTYiLCJ0b2tlbiI6InlsZDduQ21PbGcxYXEybldJWXd4a0JERmRlTDNpMzQ4UGhSVHN0Q01JSDBXS3g5NVFCeDFNTUdkTVZSQ3F5c1UiLCJ1aW4iOiIyNDM2MzcwMDgxIn0%3D&data=F8WMjKCp2u3zdj7CWvMPiR-VIbsW0199rYrXBC6td8uJ-DEEb0InUVHG3xSYNZAqgmV6s0YVxQhcPnGqVq6LCA&svctype=4&tempid=h5_group_info",
+      "icon": "chat"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "2.2",
+      "file_name": "downloads/com.galgod.band.debug.2.2.rpk",
+      "versionCode": 13
+    }
+  },
+  "ext": {}
+}
