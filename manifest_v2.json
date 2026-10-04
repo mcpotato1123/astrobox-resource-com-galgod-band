@@ -10,15 +10,11 @@
       "media/20261003160811_3.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover-1200x800.jpg",
+    "cover": "media/main_screen.png",
     "author": [
       {
         "name": "MC",
         "bindABAccount": true
-      },
-      {
-        "name": "mcpotato1123",
-        "bindABAccount": false
       }
     ]
   },
@@ -37,8 +33,8 @@
   "downloads": {
     "xmb9p": {
       "version": "2.2",
-      "file_name": "downloads/com.galgod.band.debug.2.2.rpk",
-      "versionCode": 13
+      "file_name": "downloads/com.galgod.band.release.2.2.rpk",
+      "versionCode": 14
     }
   },
   "ext": {}
