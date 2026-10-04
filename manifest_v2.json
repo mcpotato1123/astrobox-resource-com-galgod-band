@@ -31,16 +31,10 @@
     }
   ],
   "downloads": {
-    "xmb9p": {
+    "xmb9": {
       "version": "2.2",
       "file_name": "downloads/com.galgod.band.release.2.2.rpk",
-      "versionCode": 15,
-      "updatelogs": [
-        {
-          "version": "2.2",
-          "content": "修复重启问题"
-        }
-      ]
+      "versionCode": 13
     }
   },
   "ext": {}
