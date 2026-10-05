@@ -32,9 +32,15 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "2.2",
-      "file_name": "downloads/com.galgod.band.release.2.2.rpk",
-      "versionCode": 13
+      "version": "2.3",
+      "file_name": "downloads/com.galgod.band.release.2.3.rpk",
+      "versionCode": 25,
+      "updatelogs": [
+        {
+          "version": "2.3",
+          "content": "该版本为大版本更新，但不更新不影响正常游玩，且包体体积增加过大，更新请量力而为。\n1.更新对话背景，现为全景播放，因此包体积增大\n2.cg鉴赏现支持拖动，包体积增大\n3.支持屏幕常亮功能了\n4.更新了应用图标和主界面背景\n5.修复了一些bug，并吃了一包百奇饼干喵~"
+        }
+      ]
     }
   },
   "ext": {}
