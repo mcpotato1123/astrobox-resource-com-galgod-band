@@ -36,10 +36,14 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "2.5.1",
-      "file_name": "downloads/com.galgod.band.release.2.5.1.rpk",
-      "versionCode": 34,
+      "version": "2.5.2",
+      "file_name": "downloads/com.galgod.band.release.2.5.2.rpk",
+      "versionCode": 50,
       "updatelogs": [
+        {
+          "version": "2.5.2",
+          "content": "1.长按屏幕“隐藏ui”功能不再默认开启\n2.菜单里增加了快退按钮，并支持返回上一句的手势操作（右滑）\n3.修复了一些bug，并喝了一盒野生狗奶喵~\nPS：上课好累啊。（悲）"
+        },
         {
           "version": "2.5.1",
           "content": "1.更改打开菜单方式为下滑，感谢群友们的建议\n2.修复了人物和背景不匹配的bug，并吃了一盒百奇饼干喵~\n3.增加了某个神秘彩蛋，感谢Yui猫娘的提议（我爱小鱼干，喵）"
@@ -55,10 +59,14 @@
       ]
     },
     "xmb10p": {
-      "version": "2.5.1",
-      "file_name": "downloads/com.galgod.band.release.2.5.1.rpk",
-      "versionCode": 34,
+      "version": "2.5.2",
+      "file_name": "downloads/com.galgod.band.release.2.5.2.rpk",
+      "versionCode": 50,
       "updatelogs": [
+        {
+          "version": "2.5.2",
+          "content": "1.长按屏幕“隐藏ui”功能不再默认开启\n2.菜单里增加了快退按钮，并支持返回上一句的手势操作（右滑）\n3.修复了一些bug，并喝了一盒野生狗奶喵~\nPS：上课好累啊。（悲）"
+        },
         {
           "version": "2.5.1",
           "content": "1.更改打开菜单方式为下滑，感谢群友们的建议\n2.修复了人物和背景不匹配的bug，并吃了一盒百奇饼干喵~\n3.增加了某个神秘彩蛋，感谢Yui猫娘的提议（我爱小鱼干，喵）"
